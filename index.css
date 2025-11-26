@@ -1,0 +1,14 @@
+html { scroll-behavior: smooth; 
+       font-family: sans-serif; }
+
+body { box-sizing: border-box;
+       margin: 0;
+       padding: 2rem; }
+
+h4 { margin-bottom: 0rem; }
+
+.summary-li-padding-bottom { padding-bottom: 0.5rem; }
+
+.summary-li-indentation { margin-left: -1.3rem; }
+
+.bold { font-weight: bold }
